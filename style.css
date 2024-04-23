@@ -1,0 +1,56 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: #828282;
+}
+
+#main {
+  width: 626px;
+  margin: 64px auto;
+  text-align: center;
+}
+
+#main h1 {
+  color: #3F3D56;
+  font-size: 32px;
+  font-weight: 500;
+}
+
+#main h1 span {
+  color: #EE24FF;
+  font-weight: bold;
+}
+
+#main p {
+  font-size: 15px;
+  line-height: 22px;
+}
+
+#main p span {
+  font-weight: bold;
+  color: #3F3D56;
+}
+
+#footer {
+  text-align: center;
+}
+
+#footer .line {
+  width: 391px;
+  border: 1px solid #ECEFF2;
+  margin:0 auto 16px;
+}
+
+#footer a {
+  text-decoration: none;
+  color: #3F3D56;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+#footer a + a {
+  margin-left: 42px;
+}
+
+#footer .wave {
+  margin-top: 40.83px;
+}
